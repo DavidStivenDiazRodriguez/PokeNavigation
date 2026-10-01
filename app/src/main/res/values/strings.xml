@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PokeNavigation</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_favorites">Favoritos</string>
+    <string name="nav_info">Información</string>
+    <string name="favorites_title">Favoritos</string>
+    <string name="favorites_text">Aquí aparecerán tus Pokémon favoritos.</string>
+    <string name="info_title">Información</string>
+    <string name="info_text">Aplicación Android creada con Java, XML, RecyclerView y Retrofit usando PokéAPI.</string>
+    <string name="info_empty_state">Selecciona un Pokémon en la pantalla de Inicio para ver sus detalles.</string>
+    <string name="base_experience_label">Experiencia Base:</string>
+    <string name="height_label">Altura:</string>
+    <string name="weight_label">Peso:</string>
+    <string name="order_label">Orden:</string>
+    <string name="is_default_label">Por Defecto:</string>
+    <string name="retry">Reintentar</string>
+    <string name="loading">Cargando Pokémon...</string>
+</resources>
